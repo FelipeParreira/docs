@@ -24,31 +24,30 @@ curl -H "X-Auth-Token: 8h2mKAwxB3AQrFSjLVKMooJyjdCFaA7W45sWlHP8IzO" \
 
 ```javascript
 {
-  "statistics": {
-    "_id":"wufRdmSrjmSMhBdTN",
-    "uniqueId":"wD4EP3M7FeFzJZgk9",
-    "installedAt":"2018-02-18T19:40:45.369Z",
-    "version":"0.61.0-develop",
-    "totalUsers":88,
-    "activeUsers":88,
-    "nonActiveUsers":0,
-    "onlineUsers":0,
-    "awayUsers":1,
-    "offlineUsers":87,
-    "totalRooms":81,
-    "totalChannels":41,
-    "totalPrivateGroups":37,
-    "totalDirect":3,
-    "totlalLivechat":0,
-    "totalMessages":2408,
-    "totalChannelMessages":730,
-    "totalPrivateGroupMessages":1869,
-    "totalDirectMessages":25,
-    "totalLivechatMessages":0,
-    "lastLogin":"2018-02-24T12:44:45.045Z",
-    "lastMessageSentAt":"2018-02-23T18:14:03.490Z",
-    "lastSeenSubscription":"2018-02-23T17:58:54.779Z",
-    "os": {
+     "_id":"wufRdmSrjmSMhBdTN",
+     "uniqueId":"wD4EP3M7FeFzJZgk9",
+     "installedAt":"2018-02-18T19:40:45.369Z",
+     "version":"0.61.0-develop",
+     "totalUsers":88,
+     "activeUsers":88,
+     "nonActiveUsers":0,
+     "onlineUsers":0,
+     "awayUsers":1,
+     "offlineUsers":87,
+     "totalRooms":81,
+     "totalChannels":41,
+     "totalPrivateGroups":37,
+     "totalDirect":3,
+     "totlalLivechat":0,
+     "totalMessages":2408,
+     "totalChannelMessages":730,
+     "totalPrivateGroupMessages":1869,
+     "totalDirectMessages":25,
+     "totalLivechatMessages":0,
+     "lastLogin":"2018-02-24T12:44:45.045Z",
+     "lastMessageSentAt":"2018-02-23T18:14:03.490Z",
+     "lastSeenSubscription":"2018-02-23T17:58:54.779Z",
+     "os": {
       "type":"Linux",
       "platform":"linux",
       "arch":"x64",
@@ -105,28 +104,27 @@ curl -H "X-Auth-Token: 8h2mKAwxB3AQrFSjLVKMooJyjdCFaA7W45sWlHP8IzO" \
           }
         }
       ]
-    },
-    "process": {
+     },
+     "process": {
       "nodeVersion":"v8.9.4",
       "pid":11736,
       "uptime":16265.506
-    },
-    "deploy": {
+     },
+     "deploy": {
       "method":"tar",
       "platform":"selfinstall"
-    },
-    "migration": {
+     },
+     "migration": {
       "_id":"control",
       "version":106,
       "locked":false,
       "lockedAt":"2018-02-23T18:13:13.948Z",
       "buildAt":"2018-02-18T17:22:51.212Z"
-    },
-    "instanceCount":1,
-    "createdAt":"2018-02-24T13:13:00.236Z",
-    "_updatedAt":"2018-02-24T13:13:00.236Z"
-  },
-  "success":true
+     },
+     "instanceCount":1,
+     "createdAt":"2018-02-24T13:13:00.236Z",
+     "_updatedAt":"2018-02-24T13:13:00.236Z",
+     "success":true
 }
 ```
 
